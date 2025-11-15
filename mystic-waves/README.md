@@ -1,2 +1,2 @@
 # Running the code
-python main.py
+```python main.py```
